@@ -8,7 +8,7 @@ function App() {
   return (
     <>
       <img style={{ width: '100%' }} src="./static/imgs/intro.jpg" alt="" />
-      {/* <img style={{ width: '100%' }} src="./static/imgs/info.jpg" alt="" /> */}
+      <img style={{ width: '100%' }} src="./static/imgs/info.jpg" alt="" />
       <AwesomeSlider
         className="aws-btn"
         bullets={false}
